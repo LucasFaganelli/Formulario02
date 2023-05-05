@@ -120,6 +120,10 @@ fieldset legend {
   color: #c1bccc;
 }
 
+.input-wrapper label span:hover {
+  color: #807e86;
+}
+
 .col-2 {
   display: flex;
   gap: 22px;
